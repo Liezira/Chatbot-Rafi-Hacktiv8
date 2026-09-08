@@ -1,4 +1,4 @@
-# Rafi-CahtbotAI — Gemini AI Chatbot API
+# Rafi-ChatbotAI — Gemini AI Chatbot API
 
 Final project: REST API ExpressJS terintegrasi dengan Google Gemini, dengan
 frontend React (Vite) sebagai antarmuka chatbot.
