@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Simulasi",
+  "description": "Gambaran Nyata Ujian Sebenarnya",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
