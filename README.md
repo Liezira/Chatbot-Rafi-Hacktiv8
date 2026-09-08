@@ -31,6 +31,6 @@ disimpan ke disk) menggunakan `multer`, lalu dikonversi ke base64 sebagai
 
 ## Model
 
-Model default: `gemini-3.6-flash`, bisa diganti lewat env var `GEMINI_MODEL`
+Model default: `gemini-2.5-flash`, bisa diganti lewat env var `GEMINI_MODEL`
 tanpa ubah kode (lihat `.env.example`).
 
